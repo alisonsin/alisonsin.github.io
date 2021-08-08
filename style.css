@@ -2,4 +2,16 @@ h1{
   color: lightblue;
   text-align: center;
   font-size:20px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+h2{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+p{
+  font-size: 22px;
+  font-family: sans-serif;
 }
