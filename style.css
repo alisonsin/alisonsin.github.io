@@ -53,4 +53,6 @@ a:hover {
 }
 
 
-
+.container {
+  width: 700px;
+}
