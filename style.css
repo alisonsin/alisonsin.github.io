@@ -29,5 +29,8 @@ p{
 
 .intro-bubble{
   font-weight: bold;
-  background-color: lightblue;
+}
+
+body{
+    background-color: lightblue;
 }
